@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zbjornerud/Documents/C++ Project/Flight-Tracker",
+      "program": "/Users/zbjornerud/Documents/C++ Project/Flight-Tracker/build/Debug/outDebug"
+    }
+  ]
+}
